@@ -1,2 +1,3 @@
 # hello-world
-Just another repositery
+Hi there
+I'm following Github's guide so here I am.
